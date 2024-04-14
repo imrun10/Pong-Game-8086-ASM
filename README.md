@@ -5,7 +5,7 @@
 
 ## Description
 
-This is a simple implementation of the classic Pong game using 8086 Assembly For my Microprocessor class project. The game involves two paddles and a ball, and the goal is to bounce the ball off the paddles and prevent it from going past your paddle. The game is played in a two-player mode, where each player controls a paddle using w and s for P1 and O and L for P2.
+This is a simple implementation of the classic Pong game using 8086 Assembly for the Microprocessors (CMPE 475) class project at AUBH in Spring 2024. The game involves two paddles and a ball, and the goal is to bounce the ball off the paddles and prevent it from going past your paddle. The game is played in a two-player mode, where each player controls a paddle using w and s for P1 and O and L for P2.
 
 
 ## Installation
