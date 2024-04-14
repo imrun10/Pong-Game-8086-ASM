@@ -10,9 +10,10 @@ This is a simple implementation of the classic Pong game using 8086 Assembly For
 
 ## Installation
 
-1. Download the repository:
-2. Download DOSbox
-3. open DOSbox 
+1. Download the repository.
+2. Download DOSbox.
+3. Open DOSbox.
+
 ```bash
 mount c c:\your\directory\path
 c:
@@ -21,4 +22,5 @@ masm /a pong.asm
 link pong
 ;
 pong
+```
 4. Enjoy
